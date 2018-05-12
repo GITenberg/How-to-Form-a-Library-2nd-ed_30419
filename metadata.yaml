@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/205
     wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30419#How-to-Form-a-Library-2nd-ed
 gutenberg_issued: '2009-11-07'
 gutenberg_type: Text
 identifiers:
