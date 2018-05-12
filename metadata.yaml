@@ -1,0 +1,35 @@
+_repo: How-to-Form-a-Library-2nd-ed_30419
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+description: ''
+gutenberg_issued: '2009-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30419'
+  lccn: 06044093
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book collecting'
+- !lcc 'Z'
+- !lcsh 'Libraries'
+- !lcsh 'Best books'
+- !lcsh 'Books'
+tableOfContents: Introduction -- How men have formed libraries -- How to buy -- Public
+  libraries -- Private libraries -- General bibliographies -- Special bibliographies
+  -- Publishing societies -- Child's library -- One hundred books.
+title: How to Form a Library, 2nd ed
+url: http://www.gutenberg.org/ebooks/30419
